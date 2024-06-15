@@ -1,3 +1,5 @@
+[![build on push](https://github.com/Mteba94/app_cicd/actions/workflows/pushNbuild.yml/badge.svg)](https://github.com/Mteba94/app_cicd/actions/workflows/pushNbuild.yml)
+
 # AppCicd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
